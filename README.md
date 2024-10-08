@@ -2,7 +2,7 @@
 # Laboratorio N°2
 Despligue de la pagina en Github Pages y el implemento de APIs y saber su funcionamiento 
 
-link del Despligue: https://walterfox22.github.io/
+![Github](https://walterfox22.github.io/)
 
 
 
